@@ -6,7 +6,7 @@
 - 🎨 **Frontend:** HTML, CSS, Tailwind, JavaScript, React.  <br/>
 - 🛠️ **DevOps:** Docker.  <br/>
 🔭 Estoy buscando oportunidades como desarrollador **full stack**, **front-end** o **back-end**.  <br/>
-🌱 En constante aprendizaje y colaborando en proyectos **open-source**.  <br/>
+🌱 En constante aprendizaje y siempre dispuesto a colaborar en proyectos innovadores de open-source, donde podamos crecer juntos y aportar valor. <br/>
 👯 **Trabajo en equipo** y me encanta aprender y crecer profesionalmente.  <br/>
 
 <h2>🔥 | Mi contribución continua</h2>
