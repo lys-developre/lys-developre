@@ -1,7 +1,4 @@
-<a style="text-decoration: none" target="_blank" href="https://github.com/lys-developre"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lys-developre.lys-developre&left_color=gray&right_color=blue&left_text=Visitors"> </a> <a style="text-decoration: none" target="_blank" href="https://twitter.com/lys-developre"> <img width="60" src="https://img.shields.io/twitter/follow/lys-developre?label=Follow&style=social"> </a> <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/larry-yoffre"> <img width="70" src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white"> </a> </div>
 
-
-<br>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=700&size=40&vCenter=true&width=800&height=90&duration=3000&color=FF5733&lines=Hola,+mi+nombre+es+Larry!;+Soy+desarrollador+web+Fullstack!;+Bienvenido+a+mi+perfil!" />
 
