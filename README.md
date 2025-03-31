@@ -1,4 +1,9 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=700&size=40&vCenter=true&width=800&height=90&duration=3000&color=FF5733&lines=Hola,+mi+nombre+es+Larry!;+Soy+desarrollador+web+Fullstack!;+Bienvenido+a+mi+perfil!" style="background: linear-gradient(to right, #1E1E2E, #FF5733); border-radius: 10px; padding: 10px;">
+<img 
+  src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=800&size=35&vCenter=true&width=850&height=100&duration=2500&color=FFA500&lines=¡Hola!+Soy+Larry!;+Desarrollador+Web+Fullstack!;+Explora+mi+perfil+profesional!" 
+  style="background: linear-gradient(135deg, #1D1E26, #FF5722); 
+         border-radius: 12px; 
+         padding: 12px; 
+         box-shadow: 0px 4px 10px rgba(0,0,0,0.3);">
 
 <h2>📖 | Sobre mí</h2> 
 👨‍💻 Soy un desarrollador web motivado y en constante aprendizaje, con fundamentos sólidos en:  <br/>
