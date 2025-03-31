@@ -24,8 +24,7 @@
 ### 📈 GitHub Activity:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lys-developre&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lys-developre&layout=compact&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=lys-developre&theme=react-dark&hide_border=true&area=true)
-![3D Profile](https://github.com/lys-developre/lys-developre/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+
 
 ---
 
@@ -38,11 +37,7 @@
 
 ---
 
-### 📂 Proyectos destacados:
-1. **[Proyecto Personal 1](#)** - Breve descripción del proyecto y tecnologías usadas.
-2. **[Proyecto Personal 2](#)** - Breve descripción del proyecto y tecnologías usadas.
 
----
 
 ### 📫 Contáctame:
-- **Correo electrónico:** larry.yoffre@example.com
+- **Correo electrónico:** lyyos.info@gmail.com
