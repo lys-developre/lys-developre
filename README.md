@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40&vCenter=true&width=600&height=80&duration=4000&color=FF5733&lines=¡Hola!+👋;+Soy+Larry+Yoffre!;+Desarrollador+web+apasionado+por+la+tecnología!;+En+constante+aprendizaje+y+crecimiento!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40&vCenter=true&width=700&height=80&duration=4000&color=4CAF50&lines=Hola,+mi+nombre+es+Larry!;+Soy+desarrollador+web+Fullstack!;+Bienvenido+a+mi+perfil!" />
 
 <h2>📖 | Sobre mí</h2> 
 👨‍💻 Soy un desarrollador web con experiencia en **PHP, Laravel, bases de datos relacionales y no relacionales, JavaScript, Node.js, HTML, CSS, Tailwind, Docker y React.**<br/>
