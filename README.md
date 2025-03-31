@@ -13,7 +13,7 @@
 ---
 
 ### 🌐 Encuéntrame en:
-- **GitHub:** [TuPerfilGitHub](https://github.com/TuPerfilGitHub)
+- **GitHub:** [lys-developre](https://github.com/lys-developre)
 - **LinkedIn:** [TuPerfilLinkedIn](https://linkedin.com/in/TuPerfilLinkedIn)
 - **Slack:** [TuPerfilSlack](#)
 - **Facebook:** [TuPerfilFacebook](#)
@@ -22,9 +22,9 @@
 ---
 
 ### 📈 GitHub Activity:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TuUsuarioGitHub&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuarioGitHub&layout=compact&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TuUsuarioGitHub&theme=github-dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lys-developre&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lys-developre&layout=compact&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=lys-developre&theme=react-dark&hide_border=true&area=true)
 
 ---
 
