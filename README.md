@@ -16,7 +16,7 @@
 - ⚡ **Dato curioso:** Me encanta aprender cosas nuevas, desde frameworks hasta trucos para optimizar código.
 
 ---
-
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=JayantGoel001&theme=react-dark&hide_border=true&area=true)
 ### 🌐 **Encuéntrame en:**
 - **GitHub:** [TuUsuarioGitHub](https://github.com/TuUsuarioGitHub)
 - **LinkedIn:** [TuPerfilLinkedIn](https://linkedin.com/in/TuPerfilLinkedIn)
