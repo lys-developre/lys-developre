@@ -2,12 +2,12 @@
 
 <h2>📖 | Sobre mí</h2> 
 👨‍💻 Soy un desarrollador web con experiencia en:  
-- 💻 **Backend:** PHP, Laravel, Node.js, bases de datos relacionales y no relacionales.  
-- 🎨 **Frontend:** HTML, CSS, Tailwind, JavaScript, React.  
-- 🛠️ **DevOps:** Docker.  
-🔭 Estoy buscando oportunidades como desarrollador **full stack**, **front-end** o **back-end**.  
-🌱 En constante aprendizaje y colaborando en proyectos **open-source**.  
-👯 **Trabajo en equipo** y me encanta aprender y crecer profesionalmente.  
+- 💻 **Backend:** PHP, Laravel, Node.js, bases de datos relacionales y no relacionales.  <br/>
+- 🎨 **Frontend:** HTML, CSS, Tailwind, JavaScript, React.  <br/>
+- 🛠️ **DevOps:** Docker.  <br/>
+🔭 Estoy buscando oportunidades como desarrollador **full stack**, **front-end** o **back-end**.  <br/>
+🌱 En constante aprendizaje y colaborando en proyectos **open-source**.  <br/>
+👯 **Trabajo en equipo** y me encanta aprender y crecer profesionalmente.  <br/>
 
 <h2>🔥 | Mi contribución continua</h2>
 <p align="center"><strong>Contribuye, innova y construye el futuro 💡</strong></p>
