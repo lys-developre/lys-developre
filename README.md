@@ -25,6 +25,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lys-developre&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lys-developre&layout=compact&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true)
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=lys-developre&theme=react-dark&hide_border=true&area=true)
+![3D Profile](https://github.com/lys-developre/lys-developre/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
