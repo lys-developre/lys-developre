@@ -1,10 +1,13 @@
 <img 
-  src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=700&size=40&vCenter=true&width=800&height=90&duration=3000&color=FF5733&lines=Hola,+mi+nombre+es+Larry!;+Soy+desarrollador+web+Fullstack!;+Bienvenido+a+mi+perfil!" 
-  style="background: linear-gradient(to right, #1E1E2E, #FF5733); 
-         border-radius: 12px; 
-         padding: 15px; 
-         box-shadow: 0px 5px 15px rgba(0,0,0,0.4); 
-         border: 2px solid #FF5733;">
+  src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=800&size=50&vCenter=true&width=850&height=110&duration=2800&color=FFA500&lines=Hola,+mi+nombre+es+Larry!;+Soy+desarrollador+web+Fullstack!;+Bienvenido+a+mi+perfil!" 
+  style="background: linear-gradient(135deg, #2D2F3A, #FFA500); 
+         border-radius: 14px; 
+         padding: 20px; 
+         box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.5); 
+         border: 3px solid #FFA500; 
+         transform: scale(1.03); 
+         transition: transform 0.5s ease;">
+
 
 
 <h2>📖 | Sobre mí</h2> 
