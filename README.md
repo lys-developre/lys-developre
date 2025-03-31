@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40&vCenter=true&width=700&height=80&duration=4000&color=FF5733&lines=Hola,+mi+nombre+es+Larry!;+Soy+desarrollador+web+Fullstack!;+Bienvenido+a+mi+perfil!" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=700&size=40&vCenter=true&width=800&height=90&duration=3000&color=FF5733&lines=Hola,+mi+nombre+es+Larry!;+Soy+desarrollador+web+Fullstack!;+Bienvenido+a+mi+perfil!" />
 
 <h2>📖 | Sobre mí</h2> 
 👨‍💻 Soy un desarrollador web con experiencia en **PHP, Laravel, bases de datos relacionales y no relacionales, JavaScript, Node.js, HTML, CSS, Tailwind, Docker y React.**<br/>
