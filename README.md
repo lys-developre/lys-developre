@@ -51,16 +51,27 @@
 
 <h2>📫 | Contacto</h2>
 <div align="center">
+    <!-- Enlace al correo electrónico -->
     <a href="mailto:lyyos.info@gmail.com" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/-Email-orange?style=flat&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    
+    <!-- Enlace a Twitter -->
     <a href="https://twitter.com/lys-developre" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
+    
+    <!-- Enlace a LinkedIn -->
     <a href="https://www.linkedin.com/in/larry-yoffre" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/-LinkedIn-white?style=flat&logo=linkedin&logoColor=blue" alt="LinkedIn" />
     </a>
+    
+    <!-- Enlace a Facebook -->
+    <a href="https://www.facebook.com/larry.yoffre" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
 </div>
+
 
 ------
 
