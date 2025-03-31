@@ -50,7 +50,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
@@ -62,15 +62,11 @@
     </tr>
 </table>
 
-<h2>📂 | Proyectos destacados</h2>
-<div align="center">
-<p>1. <strong>[Proyecto Personal 1](#):</strong> Breve descripción del proyecto y tecnologías usadas.</p>
-<p>2. <strong>[Proyecto Personal 2](#):</strong> Breve descripción del proyecto y tecnologías usadas.</p>
-</div>
+
 
 <h2>📫 | Contacto</h2>
 <p align="center">
-Correo electrónico: larry.yoffre@example.com
+Correo electrónico: lyyos.info@gmail.com
 </p>
 
 ------
