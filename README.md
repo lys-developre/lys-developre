@@ -50,12 +50,15 @@
 </table>
 
 <h2>📫 | Contacto</h2>
-<div align="center"> <a href="mailto:lyyos.info@gmail.com" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/-Email-orange?style=flat&logo=gmail&logoColor=white" alt="Email" />
-
-</a> <a href="https://www.linkedin.com/in/larry-yoffre-9b45102bb" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/-LinkedIn-white?style=flat&logo=linkedin&logoColor=blue" alt="LinkedIn" /> </a>
+<div align="center">
+  <a href="mailto:lyyos.info@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Correo-Electronico-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico" />
+  </a>
+  <a href="https://www.linkedin.com/in/larry-yoffre-9b45102bb" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
+
 
 
 ------
