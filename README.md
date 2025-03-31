@@ -1,19 +1,19 @@
-
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=700&size=40&vCenter=true&width=800&height=90&duration=3000&color=FF5733&lines=Hola,+mi+nombre+es+Larry!;+Soy+desarrollador+web+Fullstack!;+Bienvenido+a+mi+perfil!" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=700&size=40&vCenter=true&width=800&height=90&duration=3000&color=FF5733&lines=Hola,+mi+nombre+es+Larry!;+Soy+desarrollador+web+Fullstack!;+Bienvenido+a+mi+perfil!" style="background: linear-gradient(to right, #1E1E2E, #FF5733); border-radius: 10px; padding: 10px;">
 
 <h2>📖 | Sobre mí</h2> 
-👨‍💻 Soy un desarrollador web con experiencia en **PHP, Laravel, bases de datos relacionales y no relacionales, JavaScript, Node.js, HTML, CSS, Tailwind, Docker y React.**<br/>
-🔭 Busco oportunidades laborales como desarrollador full stack, front-end o back-end.<br/>
-🌱 Estoy en constante aprendizaje y abierto a colaborar en **proyectos open-source.**<br/>
-👯 Trabajo en equipo y busco entornos donde pueda aprender y crecer.<br/>
-
-
+👨‍💻 Soy un desarrollador web con experiencia en:  
+- 💻 **Backend:** PHP, Laravel, Node.js, bases de datos relacionales y no relacionales.  
+- 🎨 **Frontend:** HTML, CSS, Tailwind, JavaScript, React.  
+- 🛠️ **DevOps:** Docker.  
+🔭 Estoy buscando oportunidades como desarrollador **full stack**, **front-end** o **back-end**.  
+🌱 En constante aprendizaje y colaborando en proyectos **open-source**.  
+👯 **Trabajo en equipo** y me encanta aprender y crecer profesionalmente.  
 
 <h2>🔥 | Mi contribución continua</h2>
+<p align="center"><strong>Contribuye, innova y construye el futuro 💡</strong></p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lys-developre&theme=react"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lys-developre&theme=react" alt="Contribución continua"/>
   </a>
 </p>
 
@@ -25,38 +25,42 @@
   </a>
 </div>
 
-
-
-<h2>🛠️ | Lenguajes, Frameworks y Herramientas </h2>
-<table align="center">
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+<h2>🛠️ | Lenguajes, Frameworks y Herramientas</h2>
+<table align="center" style="background-color:#1E1E2E; color:white; border-radius:10px;">
+    <tr style="background-color:#FF5733;">
+        <td style="font-weight: bold; padding-right: 10px;">Backend:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=php,laravel,nodejs,express"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td style="font-weight: bold; padding-right: 10px;">Frontend:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=react,tailwind,html,css,js"/></td>
     </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+    <tr style="background-color:#FF5733;">
+        <td style="font-weight: bold; padding-right: 10px;">DevOps:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=docker"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td style="font-weight: bold; padding-right: 10px;">Database:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"/></td>
     </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+    <tr style="background-color:#FF5733;">
+        <td style="font-weight: bold; padding-right: 10px;">Version Control:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=git"/></td>
     </tr>
 </table>
 
-
-
 <h2>📫 | Contacto</h2>
-<p align="center">
-Correo electrónico: lyyos.info@gmail.com
-</p>
+<div align="center">
+    <a href="mailto:lyyos.info@gmail.com" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/-Email-orange?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://twitter.com/lys-developre" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://www.linkedin.com/in/larry-yoffre" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/-LinkedIn-white?style=flat&logo=linkedin&logoColor=blue" alt="LinkedIn" />
+    </a>
+</div>
 
 ------
 
