@@ -20,11 +20,7 @@
 🌱 Estoy en constante aprendizaje y abierto a colaborar en **proyectos open-source.**<br/>
 👯 Trabajo en equipo y busco entornos donde pueda aprender y crecer.<br/>
 
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lys-developre/lys-developre/output/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
+
 
 <h2>🔥 | Mi contribución continua</h2>
 <p align="center">
