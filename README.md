@@ -26,6 +26,7 @@
 </div>
 
 
+
 <h2>🛠️ | Lenguajes, Frameworks y Herramientas </h2>
 <table align="center">
     <tr>
