@@ -1,118 +1,80 @@
-<h1 align="center">
-  🌟 Hola, &lt;desarrolladores/&gt;! Soy Larry Yoffre 🌟
-</h1>
-
-<hr/>
-
-<h3 align="center">👨‍💻 Sobre mí:</h3>
-<p align="center">
-Soy un desarrollador web con experiencia en <strong>PHP, Laravel, bases de datos relacionales y no relacionales, JavaScript, Node.js, HTML, CSS, Tailwind, Docker y React.</strong><br/>
-Busco oportunidades laborales como <strong>desarrollador full stack, front-end o back-end.</strong><br/>
-Estoy en constante aprendizaje y abierto a colaborar en <strong>proyectos open-source.</strong><br/>
-Doy todo de mí en los proyectos, trabajando en equipo con personas que puedan guiarme y enseñarme nuevas habilidades.<br/>
-</p>
-
-<hr/>
-
-<h3 align="center">🌐 Encuéntrame en:</h3>
-<p align="center">
-  <a href="https://github.com/lys-developre" target="_blank"><img src="https://img.shields.io/badge/GitHub-lys--developre-black?style=for-the-badge&logo=github"/></a>
-  <a href="https://linkedin.com/in/TuPerfilLinkedIn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-TuPerfilLinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Slack-TuPerfilSlack-purple?style=for-the-badge&logo=slack"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Facebook-TuPerfilFacebook-blue?style=for-the-badge&logo=facebook"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portafolio-(Próximamente)-lightgrey?style=for-the-badge"/></a>
-</p>
-
-<hr/>
-
-<h3 align="center">📈 GitHub Activity:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lys-developre&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lys-developre&layout=compact&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true" alt="Top Languages"/>
-
-</p>
-
-<hr/>
-
-### 🛠️ Lenguajes y Herramientas:
-<hr>
-
-<h3 align="center">🌟 Languages and Tools 🌟</h3>
-
-<p align="center">
-  <!-- Frameworks -->
-  <strong>Frameworks:</strong><br>
-  <a href="https://angular.io" target="_blank">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+<div align="right">
+  <a style="text-decoration: none" target="_blank" href="https://github.com/lys-developre">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=lys-developre.lys-developre&left_color=gray&right_color=blue&left_text=Visitors">
   </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <a style="text-decoration: none" target="_blank" href="https://twitter.com/lys-developre">
+    <img width="60" src="https://img.shields.io/twitter/follow/lys-developre?label=Follow&style=social">
   </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/larry-yoffre">
+    <img width="70" src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
   </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+</div>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Larry+Yoffre!;" />
+
+<h2>📖 | Sobre mí</h2> 
+👨‍💻 Soy un desarrollador web con experiencia en **PHP, Laravel, bases de datos relacionales y no relacionales, JavaScript, Node.js, HTML, CSS, Tailwind, Docker y React.**<br/>
+🔭 Busco oportunidades laborales como desarrollador full stack, front-end o back-end.<br/>
+🌱 Estoy en constante aprendizaje y abierto a colaborar en **proyectos open-source.**<br/>
+👯 Trabajo en equipo y busco entornos donde pueda aprender y crecer.<br/>
+
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lys-developre/lys-developre/output/github-contribution-grid-snake.svg" />
+  <br/>
+</div>
+
+<h2>🔥 | Mi contribución continua</h2>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lys-developre&theme=react"/>
   </a>
 </p>
 
-<p align="center">
-  <!-- Backend Tools -->
-  <strong>Backend Tools:</strong><br>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-</p>
+<h2>⭐ | Estadísticas de GitHub </h2>
+<div align="center">
+<a href="https://github.com/lys-developre">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lys-developre&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lys-developre&layout=compact&langs_count=7&theme=default"/></a>
+</div>
 
-<p align="center">
-  <!-- Databases -->
-  <strong>Databases:</strong><br>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-</p>
+<h2>🛠️ | Lenguajes, Frameworks y Herramientas </h2>
+<table align="center">
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=php,laravel,nodejs,express"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,tailwind,html,css,js"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git"/></td>
+    </tr>
+</table>
 
-<p align="center">
-  <!-- Programming Languages -->
-  <strong>Programming Languages:</strong><br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-</p>
+<h2>📂 | Proyectos destacados</h2>
+<div align="center">
+<p>1. <strong>[Proyecto Personal 1](#):</strong> Breve descripción del proyecto y tecnologías usadas.</p>
+<p>2. <strong>[Proyecto Personal 2](#):</strong> Breve descripción del proyecto y tecnologías usadas.</p>
+</div>
 
-<p align="center">
-  <!-- Version Control -->
-  <strong>Version Control:</strong><br>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-</p>
-
-
-<hr/>
-
-<h3 align="center">📫 Contáctame:</h3>
+<h2>📫 | Contacto</h2>
 <p align="center">
 Correo electrónico: larry.yoffre@example.com
 </p>
+
+------
+
+**Última edición:** 31/03/2025
