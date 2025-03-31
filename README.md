@@ -29,8 +29,7 @@ Doy todo de mí en los proyectos, trabajando en equipo con personas que puedan g
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lys-developre&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lys-developre&layout=compact&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&hide_border=true" alt="Top Languages"/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=lys-developre&theme=react-dark&hide_border=true&area=true" alt="GitHub Graph"/>
-  <img src="https://github.com/lys-developre/lys-developre/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile"/>
+
 </p>
 
 <hr/>
@@ -110,14 +109,6 @@ Doy todo de mí en los proyectos, trabajando en equipo con personas que puedan g
   </a>
 </p>
 
-
-<hr/>
-
-<h3 align="center">📂 Proyectos destacados:</h3>
-<p align="center">
-1. <strong>[Proyecto Personal 1](#):</strong> Breve descripción del proyecto y tecnologías usadas.<br/>
-2. <strong>[Proyecto Personal 2](#):</strong> Breve descripción del proyecto y tecnologías usadas.<br/>
-</p>
 
 <hr/>
 
