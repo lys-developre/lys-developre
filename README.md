@@ -1,14 +1,4 @@
-<div align="right" style="background-color:#1E1E2E; padding:20px; border-radius:10px; box-shadow:0px 0px 10px rgba(0,0,0,0.5);">
-  <a style="text-decoration: none; margin-right:10px;" target="_blank" href="https://github.com/lys-developre">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=lys-developre.lys-developre&left_color=gray&right_color=orange&left_text=Visitas" alt="Visitantes">
-  </a>
-  <a style="text-decoration: none; margin-right:10px;" target="_blank" href="https://twitter.com/lys-developre">
-    <img width="60" src="https://img.shields.io/twitter/follow/lys-developre?label=Sígueme&style=social" alt="Twitter Follow">
-  </a>
-  <a style="text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/larry-yoffre">
-    <img width="90" src="https://img.shields.io/badge/-Conéctate-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Connect">
-  </a>
-</div>
+<a style="text-decoration: none" target="_blank" href="https://github.com/lys-developre"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lys-developre.lys-developre&left_color=gray&right_color=blue&left_text=Visitors"> </a> <a style="text-decoration: none" target="_blank" href="https://twitter.com/lys-developre"> <img width="60" src="https://img.shields.io/twitter/follow/lys-developre?label=Follow&style=social"> </a> <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/larry-yoffre"> <img width="70" src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white"> </a> </div>
 
 
 <br>
