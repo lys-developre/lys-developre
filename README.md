@@ -49,7 +49,13 @@
     </tr>
 </table>
 
-<h2>📫 | Contacto</h2> <div align="center"> <a href="mailto:lyyos.info@gmail.com" style="text-decoration:none;"> <img src="https://img.shields.io/badge/-Email-orange?style=flat&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://twitter.com/lys-developre" style="text-decoration:none;"> <img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter" /> </a> <a href="https://www.linkedin.com/in/larry-yoffre" style="text-decoration:none;"> <img src="https://img.shields.io/badge/-LinkedIn-white?style=flat&logo=linkedin&logoColor=blue" alt="LinkedIn" /> </a> </div>
+<h2>📫 | Contacto</h2>
+<div align="center"> <a href="mailto:lyyos.info@gmail.com" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/-Email-orange?style=flat&logo=gmail&logoColor=white" alt="Email" />
+
+</a> <a href="https://www.linkedin.com/in/larry-yoffre" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/-LinkedIn-white?style=flat&logo=linkedin&logoColor=blue" alt="LinkedIn" /> </a>
+</div>
 
 
 ------
