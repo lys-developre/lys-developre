@@ -19,13 +19,7 @@
 🌱 En constante aprendizaje y siempre dispuesto a colaborar en proyectos innovadores de open-source, donde podamos crecer juntos y aportar valor. <br/>
 👯 **Trabajo en equipo** y me encanta aprender y crecer profesionalmente.  <br/>
 
-<h2>🔥 | Mi contribución continua</h2>
-<p align="center"><strong>Contribuye, innova y construye el futuro 💡</strong></p>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lys-developre&theme=react" alt="Contribución continua"/>
-  </a>
-</p>
+
 
 <h2>⭐ | Estadísticas de GitHub </h2>
 <div align="center" style="background-color:#1E1E2E; padding:20px; border-radius:10px;">
