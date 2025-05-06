@@ -21,13 +21,7 @@
 
 
 
-<h2>⭐ | Estadísticas de GitHub </h2>
-<div align="center" style="background-color:#1E1E2E; padding:20px; border-radius:10px;">
-  <a href="https://github.com/lys-developre">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lys-developre&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lys-developre&layout=compact&langs_count=7&theme=radical" alt="Lenguajes más usados"/>
-  </a>
-</div>
+
 
 <h2>🛠️ | Lenguajes, Frameworks y Herramientas</h2>
 <table align="center" style="background-color:#1E1E2E; color:white; border-radius:10px;">
