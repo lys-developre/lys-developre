@@ -1,9 +1,8 @@
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=800&size=48&duration=4000&pause=1000&color=00FFC3&center=true&vCenter=true&width=950&height=120&lines=Hola,+mi+nombre+es+Larry.;Soy+desarrollador+web+Fullstack.;Apasionado+por+el+código+limpio+y+la+tecnología.;Bienvenido+a+mi+perfil+de+GitHub!" 
-    alt="Presentación animada de Larry"
-  />
-</p>
+<img 
+  src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=800&size=42&duration=4000&pause=1000&color=3fbdf1&vCenter=true&width=950&height=110&lines=Hola,+mi+nombre+es+Larry.;Soy+desarrollador+web+Fullstack.;Apasionado+por+el+código+limpio+y+la+tecnología.;Bienvenido+a+mi+perfil+de+GitHub!" 
+  alt="Presentación animada de Larry"
+/>
+
 
 
 
