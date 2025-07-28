@@ -1,6 +1,6 @@
 <img 
   src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=800&size=50&vCenter=true&width=850&height=110&duration=2800&color=FFA500&lines=Hola,+mi+nombre+es+Larry!;+Soy+desarrollador+web+Fullstack!;+Bienvenido+a+mi+perfil!" 
-  style="background: linear-gradient(135deg, #2D2F3A, #FFA500); 
+  style="background: linear-gradient(135deg, #1e3c72, #2ecc71);
          border-radius: 14px; 
          padding: 20px; 
          box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.5); 
