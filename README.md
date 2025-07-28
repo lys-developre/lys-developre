@@ -11,7 +11,7 @@
 <h2>📖 | Sobre mí</h2> 
 👨‍💻 Soy un desarrollador web motivado y en constante aprendizaje, con fundamentos sólidos en:  <br/>
 - 💻 **Backend:** PHP, Laravel, Node.js, bases de datos relacionales y no relacionales.  <br/>
-- 🎨 **Frontend:** HTML, CSS, Tailwind, JavaScript, TypeScript,React.  <br/>
+- 🎨 **Frontend:** HTML, CSS, Tailwind, JavaScript, TypeScript, React.  <br/>
 - 🛠️ **DevOps:** Docker.  <br/>
 🔭 Estoy buscando oportunidades como desarrollador **full stack**, **front-end** o **back-end**.  <br/>
 🌱 En constante aprendizaje y siempre dispuesto a colaborar en proyectos innovadores de open-source, donde podamos crecer juntos y aportar valor. <br/>
