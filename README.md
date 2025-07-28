@@ -1,18 +1,17 @@
 <img 
-  src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=42&vCenter=true&width=850&height=110&duration=2800&color=2f81f7&lines=Hola,+mi+nombre+es+Larry!;+Soy+desarrollador+web+Fullstack!;+Bienvenido+a+mi+perfil!" 
+  src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=38&vCenter=true&width=850&height=110&duration=3000&color=2F81F7&lines=Hola,+mi+nombre+es+Larry.;Soy+desarrollador+web+Fullstack.;Bienvenido+a+mi+perfil." 
+  alt="Presentación animada de Larry"
   style="
     background: linear-gradient(135deg, #0d1117, #161b22);
-    border-radius: 16px; 
-    padding: 20px; 
-    border: 2px solid #2f81f7;
+    border-radius: 12px;
+    padding: 16px 24px;
+    border: 2px solid #2F81F7;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.3);
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
   "
 />
-
-
-
-
-
-
 
 
 <h2>📖 | Sobre mí</h2> 
