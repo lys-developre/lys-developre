@@ -1,12 +1,13 @@
 <img 
-  src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=40&vCenter=true&width=850&height=110&duration=2800&color=00ffc3&lines=Hola,+mi+nombre+es+Larry!;+Soy+desarrollador+web+Fullstack!;+Bienvenido+a+mi+perfil!" 
+  src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=42&vCenter=true&width=850&height=110&duration=2800&color=2f81f7&lines=Hola,+mi+nombre+es+Larry!;+Soy+desarrollador+web+Fullstack!;+Bienvenido+a+mi+perfil!" 
   style="
-    background: linear-gradient(135deg, #0f2027, #2c5364, #00c9a7);
+    background: linear-gradient(135deg, #0d1117, #161b22);
     border-radius: 16px; 
     padding: 20px; 
-    border: 2px solid #00ffc3;
+    border: 2px solid #2f81f7;
   "
 />
+
 
 
 
