@@ -13,7 +13,7 @@
 <h2>📖 | Sobre mí</h2> 
 👨‍💻 Soy un desarrollador web motivado y en constante aprendizaje, con fundamentos sólidos en:  <br/>
 - 💻 **Backend:** PHP, Laravel, Node.js, bases de datos relacionales y no relacionales.  <br/>
-- 🎨 **Frontend:** HTML, CSS, Tailwind, JavaScript, React.  <br/>
+- 🎨 **Frontend:** HTML, CSS, Tailwind, JavaScript, TypeScript,React.  <br/>
 - 🛠️ **DevOps:** Docker.  <br/>
 🔭 Estoy buscando oportunidades como desarrollador **full stack**, **front-end** o **back-end**.  <br/>
 🌱 En constante aprendizaje y siempre dispuesto a colaborar en proyectos innovadores de open-source, donde podamos crecer juntos y aportar valor. <br/>
@@ -31,7 +31,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,tailwind,html,css,js"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,typescript"/></td>
     </tr>
     <tr style="background-color:#FF5733;">
         <td style="font-weight: bold; padding-right: 10px;">DevOps:</td>
