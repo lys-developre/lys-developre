@@ -1,13 +1,17 @@
 <div align="center">
 
 # Larry Yoffre
-### Full Stack Developer | Creative Frontend & Backend Security
+### Desarrollador Full Stack | Creative Frontend & Seguridad Backend
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3FBDF1&height=100&section=header&text=Welcome&fontSize=40&animation=fadeIn" width="100%" />
+<img 
+src="https://capsule-render.vercel.app/api?type=waving2&color=gradient&height=120&section=header&text=Bienvenido+a+mi+GitHub!&fontSize=45&animation=slide&fontColor=ffffff&fontAlignY=50" 
+width="100%" 
+style="display:block;margin-bottom:20px"
+/>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-3FBDF1?style=flat-square&logo=google-chrome&logoColor=white)](https://www.larryyoffre.com)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Visitar-3FBDF1?style=flat-square&logo=google-chrome&logoColor=white)](https://www.larryyoffre.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/larry-yoffre-9b45102bb)
 [![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=flat-square&logo=gmail)](mailto:lyyos.info@gmail.com)
 
@@ -19,32 +23,34 @@
 
 Soy un **Desarrollador Full Stack** que disfruta de los dos mundos: la lógica rigurosa del servidor y la experiencia visual del usuario. Mi enfoque no es solo que el código funcione, sino que sea **seguro, ordenado y escalable**.
 
-* **Mentalidad Backend:** Enfocado en la seguridad. Aplico múltiples capas de validación, estándares **JWT/Auth0** y sigo principios de arquitectura profesional para garantizar la integridad de los datos.
-* **Creative Frontend:** Apasionado por dar vida a las interfaces. Utilizo **Next.js**, **Three.js** y **GSAP** para crear experiencias modernas y animadas que rompen la monotonía.
-* **IA & Agentes:** Actualmente explorando la frontera del desarrollo con IA, creando **MCPs**, **Agent Skills** y protocolos de calidad específicos para que los LLM actúen con precisión quirúrgica.
-
-> **Logro destacado:** Transformé un sistema crítico de gestión basado en Excel a una plataforma web robusta con control de roles y automatización de procesos.
+* **Mentalidad Backend:** Enfocado en la seguridad. Aplico múltiples capas de validación, estándares **JWT/Auth0** y sigo principios de arquitectura profesional.
+* **Frontend Creativo:** Apasionado por dar vida a las interfaces. Utilizo **Next.js**, **Three.js** y **GSAP** para crear experiencias modernas y animadas.
+* **IA & Agentes:** Creación de **MCPs**, **Agent Skills** y protocolos de calidad específicos para que los LLM actúen con precisión quirúrgica.
 
 ---
 
-## Tech Stack
+## Stack Tecnológico
 
 <div align="center">
 
-| **Backend & Logic** | **Creative Frontend** | **Tools & IA** |
-| :--- | :--- | :--- |
+| **Backend y Lógica** | **Frontend Creativo** | **Herramientas e IA** |
+| :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=php,laravel,symfony,nodejs" /> | <img src="https://skillicons.dev/icons?i=nextjs,react,threejs,tailwind" /> | <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,git" /> |
 
 </div>
 
 ---
 
-## Actividad y Métricas
+## Mis Estadísticas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lys-developre&show_icons=true&theme=tokyonight&hide_border=true&title_color=3FBDF1" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lys-developre&layout=compact&theme=tokyonight&hide_border=true&title_color=3FBDF1&hide=html,css" width="45%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lys-developre&bg_color=0d1117&color=3FBDF1&line=3FBDF1&point=ffffff&area=true&hide_border=true" width="100%" />
+
+<br>
+
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=lys-developre&show_icons=true&bg_color=0d1117&title_color=3FBDF1&icon_color=3FBDF1&text_color=ffffff&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=lys-developre&layout=compact&bg_color=0d1117&title_color=3FBDF1&text_color=ffffff&hide_border=true&hide=html,css&langs_count=8" width="48%" />
 
 </div>
 
@@ -52,10 +58,9 @@ Soy un **Desarrollador Full Stack** que disfruta de los dos mundos: la lógica r
 
 ## Mi Estándar de Calidad
 
-Mi compromiso con un equipo es:
-1.  **Código Legible:** Documentación clara y comentarios útiles que facilitan el mantenimiento.
-2.  **Seguridad por Diseño:** Validaciones robustas en cada capa de la aplicación.
-3.  **Orden Estructural:** Proyectos organizados bajo estándares y recomendaciones profesionales.
+1.  **Código Legible:** Documentación clara y comentarios útiles para un mantenimiento eficiente.
+2.  **Seguridad por Diseño:** Implementación de validaciones robustas en cada capa de la aplicación.
+3.  **Orden Estructural:** Proyectos organizados bajo estándares y patrones de diseño profesionales.
 
 ---
 
@@ -65,7 +70,7 @@ Mi compromiso con un equipo es:
 
 <br>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXJueXZueXJueXZueXJueXZueXJueXZueXJueXZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKMGpxPucCSZ1S0/giphy.gif" width="150px" />
+![](https://img.shields.io/badge/Estado-Abierto_a_proyectos-3FBDF1?style=for-the-badge&logo=github)
 
 <br>
 
