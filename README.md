@@ -3,6 +3,10 @@
 # Larry Yoffre
 ### Full Stack Developer | Creative Frontend & Backend Security
 
+<img src="https://i.imgur.com/vH95EwB.gif" width="60%" height="2px" alt="---" />
+
+<br>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-3FBDF1?style=flat-square&logo=google-chrome&logoColor=white)](https://www.larryyoffre.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/larry-yoffre-9b45102bb)
 [![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=flat-square&logo=gmail)](mailto:lyyos.info@gmail.com)
@@ -11,19 +15,19 @@
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 Soy un **Desarrollador Full Stack** que disfruta de los dos mundos: la lógica rigurosa del servidor y la experiencia visual del usuario. Mi enfoque no es solo que el código funcione, sino que sea **seguro, ordenado y escalable**.
 
-* **🛡️ Mentalidad Backend:** Obsesionado con la seguridad. Aplico múltiples capas de validación, estándares **JWT/Auth0** y principios de arquitectura profesional para garantizar la integridad de los datos.
-* **✨ Creative Frontend:** Me encanta dar vida a las interfaces. Utilizo **Next.js**, **Three.js** y **GSAP** para crear experiencias modernas y animadas que rompen la monotonía.
-* **🤖 IA & Agentes:** Actualmente explorando la frontera del desarrollo con IA, creando **MCPs**, **Agent Skills** y protocolos de calidad específicos para que los LLM actúen con precisión quirúrgica.
+* **Mentalidad Backend:** Enfocado en la seguridad. Aplico múltiples capas de validación, estándares **JWT/Auth0** y sigo principios de arquitectura profesional para garantizar la integridad de los datos.
+* **Creative Frontend:** Apasionado por dar vida a las interfaces. Utilizo **Next.js**, **Three.js** y **GSAP** para crear experiencias modernas y animadas que rompen la monotonía.
+* **IA & Agentes:** Actualmente explorando la frontera del desarrollo con IA, creando **MCPs**, **Agent Skills** y protocolos de calidad específicos para que los LLM actúen con precisión quirúrgica.
 
 > **Logro destacado:** Transformé un sistema crítico de gestión basado en Excel a una plataforma web robusta con control de roles y automatización de procesos.
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -36,12 +40,12 @@ Soy un **Desarrollador Full Stack** que disfruta de los dos mundos: la lógica r
 
 ---
 
-## 🎯 Mi Estándar de Calidad
+## Mi Estándar de Calidad
 
 Mi compromiso con un equipo es:
-1. **Código Legible:** Documentación clara y comentarios útiles que facilitan el mantenimiento.
-2. **Seguridad por Diseño:** Validaciones robustas en cada capa de la aplicación.
-3. **Orden Estructural:** Proyectos organizados bajo estándares y recomendaciones profesionales.
+1.  **Código Legible:** Documentación clara y comentarios útiles que facilitan el mantenimiento.
+2.  **Seguridad por Diseño:** Validaciones robustas en cada capa de la aplicación.
+3.  **Orden Estructural:** Proyectos organizados bajo estándares y recomendaciones profesionales.
 
 ---
 
@@ -49,6 +53,6 @@ Mi compromiso con un equipo es:
 
 *"El código limpio siempre parece que ha sido escrito por alguien a quien le importa."* — **Robert C. Martin**
 
-[💼 LinkedIn](https://www.linkedin.com/in/larry-yoffre-9b45102bb) • [🌐 Portafolio](https://www.larryyoffre.com) • [📧 Email](mailto:lyyos.info@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/larry-yoffre-9b45102bb) • [Portafolio](https://www.larryyoffre.com) • [Email](mailto:lyyos.info@gmail.com)
 
 </div>
