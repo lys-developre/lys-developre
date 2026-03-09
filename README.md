@@ -33,8 +33,17 @@ Soy un **Desarrollador Full Stack** que disfruta de los dos mundos: la lógica r
 
 | **Backend & Logic** | **Creative Frontend** | **Tools & IA** |
 | :--- | :--- | :--- |
-| ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | ![Docker](https://img.shields.io/badge/-Docker-2496ed?logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) |
-| ![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) | ![Three.js](https://img.shields.io/badge/-Three.js-black?logo=threedotjs&logoColor=white) ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white) | ![LLMs](https://img.shields.io/badge/-AI%20Agents-orange?logo=openai&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
+| <img src="https://skillicons.dev/icons?i=php,laravel,symfony,nodejs" /> | <img src="https://skillicons.dev/icons?i=nextjs,react,threejs,tailwind" /> | <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,git" /> |
+
+</div>
+
+---
+
+## Actividad Reciente
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lys-developre&layout=compact&theme=transparent&hide_border=true&title_color=3FBDF1&text_color=ffffff&bg_color=00000000&hide=html,css" width="400px" />
 
 </div>
 
@@ -54,5 +63,7 @@ Mi compromiso con un equipo es:
 *"El código limpio siempre parece que ha sido escrito por alguien a quien le importa."* — **Robert C. Martin**
 
 [LinkedIn](https://www.linkedin.com/in/larry-yoffre-9b45102bb) • [Portafolio](https://www.larryyoffre.com) • [Email](mailto:lyyos.info@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3FBDF1&height=60&section=footer" width="100%" />
 
 </div>
