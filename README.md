@@ -1,4 +1,6 @@
 <div align="center">
+
+# Larry Yoffre
 ### Full Stack Developer | Creative Frontend & Backend Security
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-3FBDF1?style=flat-square&logo=google-chrome&logoColor=white)](https://www.larryyoffre.com)
@@ -9,17 +11,19 @@
 
 ---
 
-## Sobre mí
+## 🚀 Sobre mí
 
 Soy un **Desarrollador Full Stack** que disfruta de los dos mundos: la lógica rigurosa del servidor y la experiencia visual del usuario. Mi enfoque no es solo que el código funcione, sino que sea **seguro, ordenado y escalable**.
 
-- **Mentalidad Backend:** Obsesionado con la seguridad. Aplico múltiples capas de validación, estándares **JWT/Auth0** y sigo principios de arquitectura profesional para garantizar la integridad de los datos.
-- **Creative Frontend:** Me encanta dar vida a las interfaces. Utilizo **Next.js**, **Three.js** y **GSAP** para crear experiencias modernas y animadas que rompen la monotonía.
-- **IA & Agentes:** Actualmente explorando la frontera del desarrollo con IA, creando **MCPs**, **Agent Skills** y protocolos de calidad específicos para que los LLM actúen con precisión quirúrgica.
+* **🛡️ Mentalidad Backend:** Obsesionado con la seguridad. Aplico múltiples capas de validación, estándares **JWT/Auth0** y principios de arquitectura profesional para garantizar la integridad de los datos.
+* **✨ Creative Frontend:** Me encanta dar vida a las interfaces. Utilizo **Next.js**, **Three.js** y **GSAP** para crear experiencias modernas y animadas que rompen la monotonía.
+* **🤖 IA & Agentes:** Actualmente explorando la frontera del desarrollo con IA, creando **MCPs**, **Agent Skills** y protocolos de calidad específicos para que los LLM actúen con precisión quirúrgica.
+
+> **Logro destacado:** Transformé un sistema crítico de gestión basado en Excel a una plataforma web robusta con control de roles y automatización de procesos.
 
 ---
 
-## Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
@@ -32,16 +36,14 @@ Soy un **Desarrollador Full Stack** que disfruta de los dos mundos: la lógica r
 
 ---
 
-## Mi Estándar de Calidad
+## 🎯 Mi Estándar de Calidad
 
 Mi compromiso con un equipo es:
-1.  **Código Legible:** Documentación clara y comentarios útiles.
-2.  **Seguridad por Diseño:** Validaciones robustas en cada capa.
-3.  **Orden Estructural:** Proyectos organizados bajo estándares profesionales.
+1. **Código Legible:** Documentación clara y comentarios útiles que facilitan el mantenimiento.
+2. **Seguridad por Diseño:** Validaciones robustas en cada capa de la aplicación.
+3. **Orden Estructural:** Proyectos organizados bajo estándares y recomendaciones profesionales.
 
 ---
-
-
 
 <div align="center">
 
