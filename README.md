@@ -8,59 +8,51 @@ src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=800&siz
 
 ---
 
-<div align="center">
+## 👨‍💻 Sobre mí
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas+al+perfil&color=3fbdf1&style=for-the-badge" />
-
-</div>
-
----
-
-# 👨‍💻 Sobre mí
-
-Soy un **Full-Stack Web Developer** apasionado por crear aplicaciones modernas, eficientes y escalables.
+Soy un **Full-Stack Web Developer** apasionado por crear aplicaciones **modernas, eficientes y escalables**.
 
 💡 Actualmente trabajo con tecnologías del ecosistema **JavaScript y PHP**.
 
-### ⚡ Stack principal
+⚡ **Stack principal**
 
-- **Backend**
-  - PHP
-  - Laravel
-  - Node.js
-  - Express
+**Backend**
+- PHP  
+- Laravel  
+- Node.js  
+- Express  
 
-- **Frontend**
-  - React
-  - Tailwind
-  - JavaScript
-  - TypeScript
-  - HTML / CSS
+**Frontend**
+- React  
+- Tailwind  
+- JavaScript  
+- TypeScript  
+- HTML / CSS  
 
-- **Bases de datos**
-  - MySQL
-  - PostgreSQL
-  - MongoDB
+**Bases de datos**
+- MySQL  
+- PostgreSQL  
+- MongoDB  
 
-- **DevOps**
-  - Docker
-  - Git
+**DevOps**
+- Docker  
+- Git  
 
 🤝 Me encanta colaborar en **proyectos open-source** y seguir aprendiendo nuevas tecnologías.
 
 ---
 
-# 🛠️ Tecnologías y herramientas
+## 🛠 Tecnologías y herramientas
 
 <div align="center">
 
-<img height="45" src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,react,tailwind,js,ts,html,css,mysql,postgres,mongodb,docker,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,react,tailwind,js,ts,html,css,mysql,postgres,mongodb,docker,git,github,vscode"/>
 
 </div>
 
 ---
 
-# 📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
@@ -72,7 +64,7 @@ Soy un **Full-Stack Web Developer** apasionado por crear aplicaciones modernas, 
 
 ---
 
-# 📈 Actividad
+## 📈 Actividad
 
 <div align="center">
 
@@ -82,17 +74,7 @@ Soy un **Full-Stack Web Developer** apasionado por crear aplicaciones modernas, 
 
 ---
 
-# 🐍 Snake de contribuciones
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg">
-
-</div>
-
----
-
-# 📫 Contacto
+## 📫 Contacto
 
 <div align="center">
 
