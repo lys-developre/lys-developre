@@ -20,14 +20,13 @@ style="display:block;margin-bottom:20px"
 ---
 
 ## Sobre mí
+Desarrollador enfocado en la construcción de sistemas escalables, seguros y altamente performantes. Mi metodología se basa en la separación de responsabilidades, la integridad del dato en el servidor y la optimización de recursos en el cliente.
 
-Soy un **Desarrollador Full Stack** que disfruta de los dos mundos: la lógica rigurosa del servidor y la experiencia visual del usuario. Mi enfoque no es solo que el código funcione, sino que sea **seguro, ordenado y escalable**.
+Hardening & Backend Architecture: Especialista en el diseño de APIs robustas bajo principios RESTful. Implementación de capas de persistencia segura, esquemas de autenticación y autorización OAuth2/JWT (Auth0) y middleware de validación estricta para garantizar la resiliencia del sistema ante vectores de ataque comunes.
 
-* **Mentalidad Backend:** Enfocado en la seguridad. Aplico múltiples capas de validación, estándares **JWT/Auth0** y sigo principios de arquitectura profesional.
-* **Frontend Creativo:** Apasionado por dar vida a las interfaces. Utilizo **Next.js**, **Three.js** y **GSAP** para crear experiencias modernas y animadas.
-* **IA & Agentes:** Creación de **MCPs**, **Agent Skills** y protocolos de calidad específicos para que los LLM actúen con precisión quirúrgica.
+High-Performance Frontend: Desarrollo de interfaces reactivas optimizadas mediante Next.js. Especializado en la integración de entornos WebGL (Three.js) y orquestación de animaciones complejas con GSAP, priorizando siempre el Core Web Vitals y la eficiencia del renderizado en el navegador.
 
----
+AI Engineering & Agentic Workflows: Implementación avanzada de MCP (Model Context Protocol) y desarrollo de Agent Skills personalizados. Diseño de sistemas de prompt engineering estructurado y flujos de trabajo autónomos para minimizar la entropía en las respuestas de los LLM y maximizar su utilidad técnica.
 
 ## Stack Tecnológico
 
