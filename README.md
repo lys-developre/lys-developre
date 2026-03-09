@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Larry 👋
+# Hola, soy Larry
 ### Full Stack Developer | Creative Frontend & Backend Security
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-3FBDF1?style=flat-square&logo=google-chrome&logoColor=white)](https://www.larryyoffre.com)
