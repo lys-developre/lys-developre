@@ -46,9 +46,11 @@ Soy un **Desarrollador Full Stack** que disfruta de los dos mundos: la lógica r
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lys-developre&bg_color=0d1117&color=3FBDF1&line=3FBDF1&point=ffffff&area=true&hide_border=true&stroke=2.5" width="100%" />
+
 <br>
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=lys-developre&show_icons=true&bg_color=0d1117&title_color=3FBDF1&icon_color=3FBDF1&text_color=ffffff&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=lys-developre&show_icons=true&bg_color=0d1117&title_color=3FBDF1&icon_color=3FBDF1&text_color=ffffff&hide_border=true&count_private=true&include_all_commits=true&hide=prs,issues,contribs" width="48%" />
+
 <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=lys-developre&layout=compact&bg_color=0d1117&title_color=3FBDF1&text_color=ffffff&hide_border=true&hide=html,css&langs_count=8" width="48%" />
 
 </div>
