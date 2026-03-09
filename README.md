@@ -1,5 +1,5 @@
 <img 
-  src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=800&size=44&duration=4000&pause=1000&color=3fbdf1&vCenter=true&width=950&height=110&lines=Hola,+mi+nombre+es+Larry!;+Soy+desarrollador+web+Fullstack!;+Bienvenido+a+mi+perfil!" 
+  src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=800&size=44&duration=4000&pause=1000&color=3fbdf1&vCenter=true&width=950&height=110&lines=Hola,+soy+Larry!;Full-Stack+Web+Developer;Construyendo+apps+con+Next.js,+Laravel+y+React;Bienvenido+a+mi+GitHub!" 
   alt="Presentación animada de Larry"
 />
 
