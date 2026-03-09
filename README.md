@@ -3,7 +3,7 @@
 # Larry Yoffre
 ### Full Stack Developer | Creative Frontend & Backend Security
 
-<img src="https://i.imgur.com/vH95EwB.gif" width="60%" height="2px" alt="---" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3FBDF1&height=100&section=header&text=Welcome&fontSize=40&animation=fadeIn" width="100%" />
 
 <br>
 
@@ -39,11 +39,12 @@ Soy un **Desarrollador Full Stack** que disfruta de los dos mundos: la lógica r
 
 ---
 
-## Actividad Reciente
+## Actividad y Métricas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lys-developre&layout=compact&theme=transparent&hide_border=true&title_color=3FBDF1&text_color=ffffff&bg_color=00000000&hide=html,css" width="400px" />
+<img src="https://github-readme-stats.vercel.app/api?username=lys-developre&show_icons=true&theme=tokyonight&hide_border=true&title_color=3FBDF1" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lys-developre&layout=compact&theme=tokyonight&hide_border=true&title_color=3FBDF1&hide=html,css" width="45%" />
 
 </div>
 
@@ -62,8 +63,12 @@ Mi compromiso con un equipo es:
 
 *"El código limpio siempre parece que ha sido escrito por alguien a quien le importa."* — **Robert C. Martin**
 
-[LinkedIn](https://www.linkedin.com/in/larry-yoffre-9b45102bb) • [Portafolio](https://www.larryyoffre.com) • [Email](mailto:lyyos.info@gmail.com)
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3FBDF1&height=60&section=footer" width="100%" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXJueXZueXJueXZueXJueXZueXJueXZueXJueXZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKMGpxPucCSZ1S0/giphy.gif" width="150px" />
+
+<br>
+
+[LinkedIn](https://www.linkedin.com/in/larry-yoffre-9b45102bb) • [Portafolio](https://www.larryyoffre.com) • [Email](mailto:lyyos.info@gmail.com)
 
 </div>
