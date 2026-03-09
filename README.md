@@ -1,62 +1,115 @@
+<div align="center">
+
 <img 
-  src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=800&size=30&duration=4000&pause=1000&color=3fbdf1&vCenter=true&width=950&height=110&lines=Hola,+soy+Larry!;Full-Stack+Web+Developer;Construyendo+apps+con+Next.js,+Laravel+y+React;Bienvenido+a+mi+GitHub!" 
-  alt="Presentación animada de Larry"
+src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=800&size=44&duration=4000&pause=1000&color=3fbdf1&vCenter=true&width=900&height=110&lines=Hola,+soy+Larry!;Full-Stack+Web+Developer;Construyendo+aplicaciones+modernas;Bienvenido+a+mi+GitHub!" 
 />
 
-
-
-
-
-
-<h2>📖 | Sobre mí</h2> 
-👨‍💻 Soy un desarrollador web motivado y en constante aprendizaje, con fundamentos sólidos en:  <br/>
-- 💻 **Backend:** PHP, Laravel, Node.js, bases de datos relacionales y no relacionales.  <br/>
-- 🎨 **Frontend:** HTML, CSS, Tailwind, JavaScript, TypeScript, React.  <br/>
-- 🛠️ **DevOps:** Docker.  <br/>
-🔭 Estoy buscando oportunidades como desarrollador **full stack**, **front-end** o **back-end**.  <br/>
-🌱 En constante aprendizaje y siempre dispuesto a colaborar en proyectos innovadores de open-source, donde podamos crecer juntos y aportar valor. <br/>
-👯 **Trabajo en equipo** y me encanta aprender y crecer profesionalmente.  <br/>
-
-
-
-
-
-<h2>🛠️ | Lenguajes, Frameworks y Herramientas</h2>
-<table align="center" style="background-color:#1E1E2E; color:white; border-radius:10px;">
-    <tr style="background-color:#FF5733;">
-        <td style="font-weight: bold; padding-right: 10px;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,laravel,nodejs,express"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,typescript"/></td>
-    </tr>
-    <tr style="background-color:#FF5733;">
-        <td style="font-weight: bold; padding-right: 10px;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"/></td>
-    </tr>
-    <tr style="background-color:#FF5733;">
-        <td style="font-weight: bold; padding-right: 10px;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git"/></td>
-    </tr>
-</table>
-
-<h2>📫 | Contacto</h2>
-<div align="center"> <br/>
-  <a href="mailto:lyyos.info@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Correo-Electronico-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico" />
-  </a> <br/>
-  <a href="https://www.linkedin.com/in/larry-yoffre-9b45102bb" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </div>
 
+---
 
+<div align="center">
 
-------
+<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas+al+perfil&color=3fbdf1&style=for-the-badge" />
 
-**Última edición:** 31/03/2025
+</div>
+
+---
+
+# 👨‍💻 Sobre mí
+
+Soy un **Full-Stack Web Developer** apasionado por crear aplicaciones modernas, eficientes y escalables.
+
+💡 Actualmente trabajo con tecnologías del ecosistema **JavaScript y PHP**.
+
+### ⚡ Stack principal
+
+- **Backend**
+  - PHP
+  - Laravel
+  - Node.js
+  - Express
+
+- **Frontend**
+  - React
+  - Tailwind
+  - JavaScript
+  - TypeScript
+  - HTML / CSS
+
+- **Bases de datos**
+  - MySQL
+  - PostgreSQL
+  - MongoDB
+
+- **DevOps**
+  - Docker
+  - Git
+
+🤝 Me encanta colaborar en **proyectos open-source** y seguir aprendiendo nuevas tecnologías.
+
+---
+
+# 🛠️ Tecnologías y herramientas
+
+<div align="center">
+
+<img height="45" src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,react,tailwind,js,ts,html,css,mysql,postgres,mongodb,docker,git,github,vscode"/>
+
+</div>
+
+---
+
+# 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Actividad
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Snake de contribuciones
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg">
+
+</div>
+
+---
+
+# 📫 Contacto
+
+<div align="center">
+
+<a href="mailto:lyyos.info@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/larry-yoffre-9b45102bb">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **Gracias por visitar mi perfil**
+
+</div>
