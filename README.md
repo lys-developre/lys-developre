@@ -1,7 +1,7 @@
 <div align="center">
 
 # Larry Yoffre
-### Desarrollador Full Stack | Creative Frontend & Seguridad Backend
+### Full Stack Developer | Creative Frontend & Backend Security
 
 <img 
 src="https://capsule-render.vercel.app/api?type=waving2&color=gradient&height=120&section=header&text=Bienvenido+a+mi+GitHub!&fontSize=45&animation=slide&fontColor=ffffff&fontAlignY=50" 
