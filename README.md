@@ -4,10 +4,7 @@
 
 ### Junior Full Stack Developer · AI-Native · Open to Work
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Hola,%20soy%20Larry%20%F0%9F%91%8B&fontSize=42&animation=fadeIn&fontColor=ffffff&fontAlignY=42"
-width="100%"
-/>
+
 
 <br>
 
