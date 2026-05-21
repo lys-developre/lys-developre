@@ -2,7 +2,7 @@
 
 # Larry Yoffre
 
-### 🚀 Junior Full Stack Developer · AI-Native · Open to Work
+### Junior Full Stack Developer · AI-Native · Open to Work
 
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Hola,%20soy%20Larry%20%F0%9F%91%8B&fontSize=42&animation=fadeIn&fontColor=ffffff&fontAlignY=42"
@@ -30,19 +30,19 @@ width="100%"
 
 <!-- =====================  ESPAÑOL  ===================== -->
 
-## 👋 Sobre mí
+## Sobre mí
 
-Soy un **desarrollador junior autodidacta** con formación en programación web (Grado Medio en Informática + Curso Superior en Programación Web) y un camino poco común: **vengo del mundo de la maquinaria pesada**, y eso me ha dejado algo que me define como profesional → **disciplina, responsabilidad y respeto por los sistemas complejos**.
+Soy un **desarrollador junior autodidacta** con formación en programación web (Curso Superior en Programación Web) y un camino poco común: **vengo del mundo de la maquinaria pesada**, y eso me ha dejado algo que me define como profesional → **disciplina, responsabilidad y respeto por los sistemas complejos**.
 
-Hoy programo todos los días porque descubrí que aquí **se puede aprender de forma infinita y construir cosas que cambian la vida de las personas**. Esa es la razón real por la que estoy aquí.
+Hoy programo gran parte de mis días porque descubrí que aquí **se puede aprender de forma infinita y construir cosas que cambian la vida de las personas**. Esa es la razón real por la que estoy aquí.
 
-> 🎯 **Mi objetivo ahora mismo:** encontrar mi **primera oportunidad profesional** en una empresa que valore los perfiles junior comprometidos, donde pueda **aportar lo que ya sé y crecer rápido** para aportar mucho más cada día.
+> **Mi objetivo ahora mismo:** encontrar mi **primera oportunidad profesional** en una empresa que valore los perfiles junior comprometidos, donde pueda **aportar lo que ya sé y crecer rápido** para aportar mucho más cada día.
 
 **Lo que me describe mejor:**
-- 🔥 Cuando me comprometo con algo, lo doy **al 100%**. No conozco otra forma de trabajar.
-- 📚 **Aprendo rápido** y dedico tiempo extra fuera del horario para llegar al nivel que se me exija.
-- 🤝 Me adapto al rol que el equipo necesite y me comunico con fluidez desde el primer día.
-- 🤖 Soy **AI-native developer**: utilizo IA a diario de forma metódica (planes detallados, auditoría del código generado, comprensión del *por qué* de cada decisión técnica).
+- Cuando me comprometo con algo, lo doy **al 100%**. No conozco otra forma de trabajar.
+- **Aprendo rápido** y dedico tiempo extra fuera del horario para llegar al nivel que se me exija.
+- Me adapto al rol que el equipo necesite y me comunico con fluidez desde el primer día.
+- Soy **AI-native developer**: utilizo IA a diario de forma metódica (planes detallados, auditoría del código generado, comprensión del *por qué* de cada decisión técnica).
 
 <details>
 <summary>🇬🇧 <b>About me in English</b> (click to expand)</summary>
@@ -53,12 +53,12 @@ I'm a **self-taught junior developer** based in **Granada, Spain**, with formal 
 
 I now code every day because I discovered this is a field where **you can keep learning forever and build things that genuinely improve people's lives**.
 
-> 🎯 **My current goal:** find my **first professional opportunity** in a company that values committed juniors, where I can **contribute what I already know and grow fast** to contribute much more every day.
+> **My current goal:** find my **first professional opportunity** in a company that values committed juniors, where I can **contribute what I already know and grow fast** to contribute much more every day.
 
-- 🔥 When I commit to something, I give it **100%**.
-- 📚 Fast learner — I invest extra hours outside work to reach the level required.
-- 🤝 Strong team-player, adaptable, clear communicator from day one.
-- 🤖 **AI-native developer**: I use AI tools daily with a rigorous methodology (detailed planning, code auditing, understanding the *why* behind every decision).
+- When I commit to something, I give it **100%**.
+- Fast learner — I invest extra hours outside work to reach the level required.
+- Strong team-player, adaptable, clear communicator from day one.
+- **AI-native developer**: I use AI tools daily with a rigorous methodology (detailed planning, code auditing, understanding the *why* behind every decision).
 
 **Languages:** Spanish (native) · English (B1, conversational, improving daily).
 
@@ -66,13 +66,13 @@ I now code every day because I discovered this is a field where **you can keep l
 
 ---
 
-## 🏆 Reconocimientos
+## Reconocimientos
 
 <table>
   <tr>
     <td width="80" align="center">🥇</td>
     <td>
-      <b>Ganador · Hackathon GenAI Arena</b> — <i>SIDN Digital Thinking</i><br>
+      <b>Ganador Sandbox· Hackathon GenAI Arena</b> — <i>SIDN Digital Thinking</i><br>
       <sub>Competición de soluciones basadas en IA generativa.</sub>
     </td>
   </tr>
@@ -87,7 +87,7 @@ I now code every day because I discovered this is a field where **you can keep l
 
 ---
 
-## 💼 ¿Qué tipo de oportunidad busco?
+## ¿Qué tipo de oportunidad busco?
 
 | 🎯 Rol | 🏢 Empresa ideal | 💻 Modalidad |
 | :--- | :--- | :--- |
@@ -101,7 +101,7 @@ I now code every day because I discovered this is a field where **you can keep l
 
 ---
 
-## 🛠️ Stack & conocimientos
+## Stack & conocimientos
 
 > **Nota honesta:** marco con 🟢 lo que manejo con soltura en proyectos, con 🟡 lo que estoy aprendiendo activamente y con 🔵 lo que he explorado a nivel introductorio. Prefiero ser claro a vender humo.
 
@@ -124,7 +124,7 @@ I now code every day because I discovered this is a field where **you can keep l
 
 ---
 
-## 🚀 Proyectos personales destacados
+## Proyectos personales destacados
 
 > Todos son proyectos propios, construidos para aprender en profundidad. Aún no han llegado a producción con usuarios reales (excepto mi portfolio), pero cada uno me ha enseñado algo distinto.
 
@@ -171,11 +171,11 @@ I now code every day because I discovered this is a field where **you can keep l
   </tr>
 </table>
 
-👉 **Más proyectos** en mi <a href="https://github.com/lys-developre?tab=repositories">listado de repositorios</a> (incluye experimentos con Laravel 11, etc.).
+**Más proyectos** en mi <a href="https://github.com/lys-developre?tab=repositories">listado de repositorios</a> (incluye experimentos con Laravel 11, etc.).
 
 ---
 
-## 🤖 Mi enfoque con IA (lo que me hace distinto)
+## Mi enfoque con IA (lo que me hace distinto)
 
 No uso la IA solo para "que me escriba código". La integro como **un compañero de equipo al que hay que dirigir bien**:
 
@@ -186,15 +186,15 @@ No uso la IA solo para "que me escriba código". La integro como **un compañero
 
 ---
 
-## 🌱 En qué estoy ahora mismo
+## En qué estoy ahora mismo
 
-- 📖 Preparando la certificación **Google Cloud Generative AI Leader**.
-- 🧪 Disciplina personal: **entender cada librería que instalo en un proyecto** (qué hace, por qué la uso, qué alternativas hay).
-- 🏗️ Próximo objetivo 2026: **encontrar mi primer trabajo** para crecer en equipo, o lanzar un **SaaS propio** que valide en el mercado lo que estoy aprendiendo.
+- Preparando la certificación **Google Cloud Generative AI Leader**.
+- Disciplina personal: **entender cada librería que instalo en un proyecto** (qué hace, por qué la uso, qué alternativas hay).
+- Próximo objetivo 2026: **encontrar mi primer trabajo** para crecer en equipo, o lanzar un **SaaS propio** que valide en el mercado lo que estoy aprendiendo.
 
 ---
 
-## 🌄 Más allá del código
+## Más allá del código
 
 Soy polifacético: lo mismo disfruto un día **en la montaña recorriendo un sendero**, escuchando un motor en una **carrera**, **pescando** en la orilla de un río o **trabajando en el campo con maquinaria pesada**. Esa diversidad me da perspectiva y me ayuda a desconectar para volver al código con la cabeza clara.
 
@@ -202,24 +202,14 @@ Soy polifacético: lo mismo disfruto un día **en la montaña recorriendo un sen
 
 ---
 
-## 📊 Actividad en GitHub
+## Actividad en GitHub
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lys-developre&bg_color=0d1117&color=3FBDF1&line=3FBDF1&point=ffffff&area=true&hide_border=true&stroke=2.5" width="100%" />
-
-<br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lys-developre&show_icons=true&bg_color=0d1117&title_color=3FBDF1&icon_color=3FBDF1&text_color=ffffff&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lys-developre&layout=compact&bg_color=0d1117&title_color=3FBDF1&text_color=ffffff&hide_border=true&hide=html,css&langs_count=8" />
-
-</div>
 
 ---
 
 <div align="center">
 
-## 📬 ¿Hablamos?
+## ¿Hablamos?
 
 **Estoy activamente buscando mi primera oportunidad profesional.**
 Si tu empresa apuesta por perfiles junior con hambre de aprender, **me encantaría escucharte**.
@@ -232,6 +222,6 @@ Si tu empresa apuesta por perfiles junior con hambre de aprender, **me encantar�
 
 <br>
 
-<sub>⭐ Si algo de mi perfil te ha llamado la atención, gracias por tu tiempo.</sub>
+<sub>Si algo de mi perfil te ha llamado la atención, gracias por tu tiempo.</sub>
 
 </div>
