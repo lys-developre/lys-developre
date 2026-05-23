@@ -1,224 +1,287 @@
-<div align="center">
+# 🚀 Larry Yoffre
 
-# Larry Yoffre
+<p align="center">
+  <b>Senior-Minded Junior Full Stack Developer · AI-Native Engineer</b>
+</p>
 
-### Junior Full Stack Developer · AI-Native · Open to Work
+<p align="center">
+  <a href="https://www.larryyoffre.com">
+    <img src="https://img.shields.io/badge/Portafolio-larryyoffre.com-3FBDF1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/larry-yoffre-9b45102bb">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <a href="mailto:lyyos.info@gmail.com">
+    <img src="https://img.shields.io/badge/Email-lyyos.info@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2_OPEN_TO_WORK-Buscando_mi_primera_oportunidad-2ea44f?style=flat-square" alt="Open to Work">
+  
+  <img src="https://img.shields.io/badge/%F0%9F%8F%86_Hackathon_Winner-GenAI_Arena_by_SIDN-FFD700?style=flat-square" alt="Hackathon Winner">
+</p>
 
-
-<br>
-
-📍 **Granada, España** · 🌍 Remoto / Híbrido / Presencial · 🗣️ Español nativo · English (B1, conversacional)
-
-<br>
-
-[![Portafolio](https://img.shields.io/badge/Portafolio-larryyoffre.com-3FBDF1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.larryyoffre.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larry-yoffre-9b45102bb)
-[![Email](https://img.shields.io/badge/Email-lyyos.info@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lyyos.info@gmail.com)
-
-<br>
-
-![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2_OPEN_TO_WORK-Buscando_mi_primera_oportunidad-2ea44f?style=for-the-badge)
-![Hackathon Winner](https://img.shields.io/badge/%F0%9F%8F%86_Hackathon_Winner-GenAI_Arena_by_SIDN-FFD700?style=for-the-badge)
-
-</div>
+<p align="center">
+  📍 Granada, España &nbsp;|&nbsp; 🌍 Remoto — Híbrido &nbsp;|&nbsp; 🗣️ Español (Nativo) — English (B1)
+</p>
 
 ---
 
-<!-- =====================  ESPAÑOL  ===================== -->
+# ⚡ De un vistazo
 
-## Sobre mí
+Vengo de la industria de la **maquinaria pesada**, un entorno implacable donde un error cuesta miles de euros. De ahí importé mi ética de trabajo hacia el software: **disciplina ciega, respeto absoluto por los sistemas complejos y tolerancia cero a escribir código que no entiendo.**
 
-Soy un **desarrollador junior autodidacta** con formación en programación web (Curso Superior en Programación Web) y un camino poco común: **vengo del mundo de la maquinaria pesada**, y eso me ha dejado algo que me define como profesional → **disciplina, responsabilidad y respeto por los sistemas complejos**.
+Hoy soy un desarrollador **AI-Native**. No uso la inteligencia artificial como un “copiapasta de StackOverflow de esteroides”, sino como un acelerador de arquitectura guiado por metodologías estrictas de auditoría y planificación previa.
 
-Hoy programo gran parte de mis días porque descubrí que aquí **se puede aprender de forma infinita y construir cosas que cambian la vida de las personas**. Esa es la razón real por la que estoy aquí.
+---
 
-> **Mi objetivo ahora mismo:** encontrar mi **primera oportunidad profesional** en una empresa que valore los perfiles junior comprometidos, donde pueda **aportar lo que ya sé y crecer rápido** para aportar mucho más cada día.
+# 🏆 Reconocimientos e Hitos
 
-**Lo que me describe mejor:**
-- Cuando me comprometo con algo, lo doy **al 100%**. No conozco otra forma de trabajar.
-- **Aprendo rápido** y dedico tiempo extra fuera del horario para llegar al nivel que se me exija.
-- Me adapto al rol que el equipo necesite y me comunico con fluidez desde el primer día.
-- Soy **AI-native developer**: utilizo IA a diario de forma metódica (planes detallados, auditoría del código generado, comprensión del *por qué* de cada decisión técnica).
+<table width="100%">
+  <tr>
+    <td width="10%" align="center">🥇</td>
+    <td width="90%">
+      <b>Ganador Sandbox · Hackathon GenAI Arena</b> — <i>SIDN Digital Thinking</i><br>
+      <sub>
+        Competición de arquitectura e implementación de soluciones basadas en IA generativa bajo presión.
+      </sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="10%" align="center">📜</td>
+    <td width="90%">
+      <b>En curso · Google Cloud Generative AI Leader</b> — <i>Certificación Oficial Google Cloud</i><br>
+      <sub>
+        Validando de forma teórica y práctica la gestión de infraestructura de IA en entornos Cloud (GCP).
+      </sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+# 🏗️ Proyectos Destacados (Engineering Showcase)
+
+<table width="100%">
+
+  <tr>
+    <td width="50%" valign="top">
+
+### 🧠 [NEXUS-AI](https://github.com/lys-developre/nexus-ai)
+
+**Self-Healing Content Pipeline (SaaS Experimental)**
+
+Transforma contenido estático en entidades evolutivas usando agentes autónomos, vector embeddings y similitud por coseno con una cadena de proveedores AI distribuidos y fallback automático.
+
+**Stack**
+```txt
+Next.js 16 · TypeScript · Drizzle ORM · pgvector · Vertex AI
+```
+
+[→ Ver Repositorio](https://github.com/lys-developre/nexus-ai)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛡️ [Core Panel](https://github.com/lys-developre/core-panel)
+
+**Enterprise Dashboard & RBAC Architecture**
+
+Panel administrativo blindado con autenticación por credenciales, protección criptográfica de rutas a nivel de Middleware con roles estructurados (USER/ADMIN) y sincronización óptima servidor-cliente.
+
+**Stack**
+```txt
+Next.js 16 · React 19 · NextAuth v5 · Prisma · Zod
+```
+
+[→ Ver Repositorio](https://github.com/lys-developre/core-panel)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💈 [Peluquería 250](https://github.com/lys-developre/barberia-250)
+
+**Mission-Critical Booking System (133+ Tests)**
+
+Aplicación de gestión de alta fidelidad con control estricto de colisiones de horarios, encriptación bcrypt y una suite exhaustiva de 133 tests automatizados de integración y unitarios.
+
+**Stack**
+```txt
+PostgreSQL · Vitest · Testing Library · Biome · pnpm
+```
+
+[→ Ver Repositorio](https://github.com/lys-developre/barberia-250)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 [larryyoffre.com](https://www.larryyoffre.com)
+
+**3D WebGL Production Portfolio**
+
+Mi ventana al mundo optimizada para rendimiento y Core Web Vitals. Implementación nativa de gráficos tridimensionales interactivos en el navegador.
+
+**Stack**
+```txt
+Three.js · React Three Fiber · Tailwind CSS · UX Performance
+```
+
+[→ Visitar Web](https://www.larryyoffre.com)
+
+</td>
+</tr>
+
+</table>
+
+---
+
+# 🤖 El Manifiesto AI-Native (Cómo trabajo)
+
+Los desarrolladores del ecosistema moderno entienden que la IA no nos reemplaza, sino que nos convierte en directores de orquesta. Mi flujo técnico se divide en 4 leyes:
+
+```txt
+[ 1. Context Specification ]
+                ↓
+[ 2. Architecture Plan ]
+                ↓
+[ 3. Execution & Audit ]
+                ↓
+[ 4. Deep Understanding ]
+```
+
+### 1. Contexto Estricto
+Cada repositorio mío incluye reglas de gobernanza de datos y estilos en archivos estandarizados (`agents.md` / `claude.md`). Los modelos nunca asumen; obedecen el diseño preestablecido.
+
+### 2. Planificación Desacoplada
+Jamás pido código sin antes forzar al modelo a debatir conmigo el plan de ataque. Diseño la solución a nivel lógico y, cuando es robusta, procedo a la generación.
+
+### 3. Auditoría de Producción
+Todo bloque de código generado pasa por un filtro de revisión manual. Si una línea hace algo sospechoso o ineficiente, se reescribe o se audita hasta entender el *porqué* real detrás de la decisión técnica.
+
+### 4. Comprensión Profunda
+No memorizo patrones sin contexto. Mi objetivo es comprender cómo y por qué funciona cada arquitectura, flujo o decisión de diseño.
+
+---
+
+# 🛠️ Stack Tecnológico Pro
+
+Las herramientas que domino, divididas sin filtros ni falsas expectativas:
+
+## 🟢 Producción (Listo para aportar valor)
+
+### Frontend
+- Next.js 16
+- React 19
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
+
+### Backend
+- Node.js
+- RESTful APIs
+- NextAuth v5
+- JWT
+- Bcrypt
+
+### Databases
+- PostgreSQL
+- Prisma ORM
+- Drizzle ORM
+
+---
+
+## 🟡 Escalando (En desarrollo activo / Workflows diarios)
+
+### Backend Enterprise
+- PHP
+- Laravel 11
+- Symfony
+
+### DevOps & Tooling
+- Docker
+- Git
+- pnpm
+- Vitest
+- Biome
+- ESLint
+- Husky
+
+### AI & Cloud
+- OpenAI APIs
+- Gemini APIs
+- Vertex AI (GCP)
+- pgvector (Embeddings)
+
+---
+
+## 🔵 Exploratorio (Conceptos asimilados)
+
+### WebGL & Gráficos
+- Three.js
+- React Three Fiber
+
+---
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,php,laravel,postgres,prisma,docker,git,gcp" alt="Tech Stack Icons" />
+</p>
+
+---
+
+# 📈 Actividad en GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=lys-developre&show_icons=true&theme=radical&locale=es&hide_border=true" height="150" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lys-developre&layout=compact&theme=radical&locale=es&hide_border=true" height="150" alt="Top Languages" />
+</p>
+
+---
 
 <details>
-<summary>🇬🇧 <b>About me in English</b> (click to expand)</summary>
 
-<br>
+<summary>
+  <b>🌐 Click to expand English Version (International Recruiters)</b>
+</summary>
 
-I'm a **self-taught junior developer** based in **Granada, Spain**, with formal training in web development and a non-traditional path: I come from the **heavy machinery industry**, which gave me something that defines me as a professional → **discipline, accountability and respect for complex systems**.
+# Executive Summary
 
-I now code every day because I discovered this is a field where **you can keep learning forever and build things that genuinely improve people's lives**.
+Self-taught developer from Granada, Spain, with an unconventional background in heavy machinery operations.
 
-> **My current goal:** find my **first professional opportunity** in a company that values committed juniors, where I can **contribute what I already know and grow fast** to contribute much more every day.
+This unique origin instilled in me a rigorous professional foundation:
+- Strict discipline
+- High accountability
+- Absolute respect for complex systems
 
-- When I commit to something, I give it **100%**.
-- Fast learner — I invest extra hours outside work to reach the level required.
-- Strong team-player, adaptable, clear communicator from day one.
-- **AI-native developer**: I use AI tools daily with a rigorous methodology (detailed planning, code auditing, understanding the *why* behind every decision).
+## The Goal
+Securing my first professional role in an engineering-first organization where high commitment and fast learning-curves are valued.
 
-**Languages:** Spanish (native) · English (B1, conversational, improving daily).
+## AI-Native Mindset
+I specialize in structured AI-assisted workflows, utilizing:
+- Explicit context injection (`agents.md`)
+- Peer-review auditing of LLM outputs
+- Pre-generation planning
+- Architecture-first execution
 
 </details>
 
 ---
 
-## Reconocimientos
+# 💼 ¿Conectamos?
 
-<table>
-  <tr>
-    <td width="80" align="center">🥇</td>
-    <td>
-      <b>Ganador Sandbox· Hackathon GenAI Arena</b> — <i>SIDN Digital Thinking</i><br>
-      <sub>Competición de soluciones basadas en IA generativa.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="80" align="center">📜</td>
-    <td>
-      <b>En curso · Google Cloud Generative AI Leader</b> — <i>Certificación oficial Google Cloud</i><br>
-      <sub>Preparándome activamente para el examen oficial.</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  Estoy listo para integrarme en un equipo de desarrollo, asumir responsabilidades desde el primer día y acelerar vuestra velocidad de entrega de software mediante flujos modernos de desarrollo.
+</p>
 
----
-
-## ¿Qué tipo de oportunidad busco?
-
-| 🎯 Rol | 🏢 Empresa ideal | 💻 Modalidad |
-| :--- | :--- | :--- |
-| Junior Full Stack / Backend / AI-assisted developer | Que valore los perfiles junior comprometidos y los acompañe en su crecimiento | Remoto preferentemente · Híbrido / Presencial también válido si aporta aprendizaje |
-
-**Lo que ofrezco a una empresa que apueste por mí:**
-- ✅ Responsabilidad total con las tareas asignadas.
-- ✅ Velocidad de aprendizaje y horas extra de formación por mi cuenta.
-- ✅ Conocimiento práctico (no teórico) de **workflows con IA** para acelerar la entrega.
-- ✅ Una persona con la que se puede contar y que **se adapta al equipo, no al revés**.
-
----
-
-## Stack & conocimientos
-
-> **Nota honesta:** marco con 🟢 lo que manejo con soltura en proyectos, con 🟡 lo que estoy aprendiendo activamente y con 🔵 lo que he explorado a nivel introductorio. Prefiero ser claro a vender humo.
-
-| Área | Tecnologías |
-| :--- | :--- |
-| **Frontend** 🟢 | Next.js · React · TypeScript · Tailwind CSS · shadcn/ui |
-| **Backend** 🟢 | Node.js · API REST · NextAuth v5 · JWT · bcrypt |
-| **Backend (PHP)** 🟡 | Laravel · Symfony |
-| **Bases de datos** 🟢 | PostgreSQL · Prisma ORM · Drizzle ORM |
-| **DevOps & tooling** 🟡 | Docker · Git · pnpm · Vitest · Biome · ESLint · Husky |
-| **IA & Cloud** 🟡 | Integración de APIs de OpenAI / Gemini · Vertex AI (GCP) · pgvector (embeddings) |
-| **Metodología con IA** 🟢 | Planificación detallada con LLMs · agents.md / claude.md · auditoría del código generado |
-| **3D / WebGL** 🔵 | Three.js (exploratorio en mi portfolio) |
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,php,laravel,symfony,postgres,prisma,docker,git,gcp" />
-
-</div>
-
----
-
-## Proyectos personales destacados
-
-> Todos son proyectos propios, construidos para aprender en profundidad. Aún no han llegado a producción con usuarios reales (excepto mi portfolio), pero cada uno me ha enseñado algo distinto.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/lys-developre/nexus-ai">NEXUS-AI</a></h3>
-      <p><b>Self-Healing Content Pipeline (proyecto SaaS en desarrollo)</b></p>
-      <p>Plataforma experimental que convierte contenido web estático en una entidad evolutiva mediante agentes, embeddings y similitud por coseno. Cadena de proveedores AI con fallback.</p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,postgres,docker" /><br>
-        <sub>Next.js · TypeScript · Drizzle · pgvector · Vertex AI · NextAuth v5</sub>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/lys-developre/core-panel">Core Panel</a></h3>
-      <p><b>Dashboard SaaS con autenticación y RBAC</b></p>
-      <p>Panel de administración con auth por credenciales, protección de rutas por middleware con RBAC (USER/ADMIN) y sesión optimizada servidor→cliente.</p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,prisma" /><br>
-        <sub>Next.js 16 · React 19 · NextAuth v5 · Prisma · shadcn/ui · React Hook Form + Zod</sub>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💈 <a href="https://github.com/lys-developre/barberia-250">Peluquería 250</a></h3>
-      <p><b>Sistema de gestión y reservas (con tests)</b></p>
-      <p>Aplicación de gestión con panel admin, modelos Cliente/Servicio/Reserva/Barbero/Horario, auth con bcrypt y <b>133 tests</b> con Vitest + Testing Library.</p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,prisma,postgres,docker" /><br>
-        <sub>Next.js · Prisma · PostgreSQL · NextAuth · Vitest · Biome · pnpm</sub>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://www.larryyoffre.com">larryyoffre.com</a></h3>
-      <p><b>Portfolio personal — único proyecto en producción</b></p>
-      <p>Mi portfolio con integración de WebGL/Three.js. Es donde aplico todo lo que aprendo sobre rendimiento, experiencia de usuario y diseño.</p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,threejs,tailwind" /><br>
-        <sub>Next.js · React · TypeScript · Three.js · Tailwind</sub>
-      </p>
-    </td>
-  </tr>
-</table>
-
-**Más proyectos** en mi <a href="https://github.com/lys-developre?tab=repositories">listado de repositorios</a> (incluye experimentos con Laravel 11, etc.).
-
----
-
-## Mi enfoque con IA (lo que me hace distinto)
-
-No uso la IA solo para "que me escriba código". La integro como **un compañero de equipo al que hay que dirigir bien**:
-
-1. **Planifico antes de pedir código.** Elaboro planes detallados que el modelo evalúa y refina conmigo, para que tenga contexto sólido antes de generar.
-2. **Documento el contexto para los agentes.** En cada proyecto creo archivos como `claude.md` / `agents.md` con la arquitectura, convenciones y restricciones del repo.
-3. **Audito siempre el resultado.** Dedico tiempo a entender *qué* hace y *por qué* lo hace así. Si no lo entiendo, no lo entrego.
-4. **La IA potencia, no sustituye.** Mi opinión: la fiabilidad depende de cuán bien expresemos la intención al modelo, y de cuánto tiempo invirtamos en auditar y comprender lo que produce.
-
----
-
-## En qué estoy ahora mismo
-
-- Preparando la certificación **Google Cloud Generative AI Leader**.
-- Disciplina personal: **entender cada librería que instalo en un proyecto** (qué hace, por qué la uso, qué alternativas hay).
-- Próximo objetivo 2026: **encontrar mi primer trabajo** para crecer en equipo, o lanzar un **SaaS propio** que valide en el mercado lo que estoy aprendiendo.
-
----
-
-## Más allá del código
-
-Soy polifacético: lo mismo disfruto un día **en la montaña recorriendo un sendero**, escuchando un motor en una **carrera**, **pescando** en la orilla de un río o **trabajando en el campo con maquinaria pesada**. Esa diversidad me da perspectiva y me ayuda a desconectar para volver al código con la cabeza clara.
-
-> 💬 *"Si lo vamos a hacer, hagámoslo dando el 100% y con la mayor responsabilidad que nuestras capacidades nos permitan."*
-
----
-
-## Actividad en GitHub
-
-
----
-
-<div align="center">
-
-## ¿Hablamos?
-
-**Estoy activamente buscando mi primera oportunidad profesional.**
-Si tu empresa apuesta por perfiles junior con hambre de aprender, **me encantaría escucharte**.
-
-<br>
-
-[![Email](https://img.shields.io/badge/✉️_Escríbeme-lyyos.info@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lyyos.info@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larry-yoffre-9b45102bb)
-[![Portafolio](https://img.shields.io/badge/🌐_Portafolio-larryyoffre.com-3FBDF1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.larryyoffre.com)
-
-<br>
-
-<sub>Si algo de mi perfil te ha llamado la atención, gracias por tu tiempo.</sub>
-
-</div>
+<p align="center">
+  ✉️ Correo Directo · 💼 LinkedIn · 🌐 Web Personal
+</p>
