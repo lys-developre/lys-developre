@@ -1,6 +1,5 @@
-# Larry Yoffre
 
-**Full Stack Developer · AI Systems Integration** Granada, España | Remoto — Híbrido  
+## Full Stack Developer · AI Systems Integration
 [Portafolio](https://www.larryyoffre.com) · [LinkedIn](https://www.linkedin.com/in/larry-yoffre-9b45102bb) · [Email](mailto:lyyos.info@gmail.com)
 
 ---
